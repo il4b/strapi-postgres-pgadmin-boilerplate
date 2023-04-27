@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore environment configuration file to prevent sensitive data from being exposed
+.env
+
+# Ignore the PostgreSQL database data directory, which stores persistent data to survive container restarts
+database/.data
+
+# Ignore the pgAdmin4 servers configuration file to avoid exposing database connection details
+database/servers.json
