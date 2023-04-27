@@ -105,4 +105,4 @@ This command will change the ownership of all files and directories in the curre
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-That's it! You're now ready to start using this boilerplate to build your project with Str
+That's it! You're now ready to start using this boilerplate to build your project with Strapi, PostgreSQL, pgAdmin4.
