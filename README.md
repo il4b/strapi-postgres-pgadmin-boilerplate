@@ -1,10 +1,19 @@
 # Strapi 4, PostgreSQL, and pgAdmin4 Boilerplate with Docker Compose
 
-This open-source boilerplate provides a minimal setup to start a project using Strapi 4, PostgreSQL, and pgAdmin4 with Docker Compose. The project includes a PostgreSQL database, pgAdmin4 for managing the database, and a Strapi 4.10 backend service. The setup ensures that you can begin your project with minimal configuration.
+This open-source boilerplate provides a minimal setup to start a project using Strapi 4, PostgreSQL, and pgAdmin4 with Docker Compose. 
+
+The project includes:
+* a PostgreSQL database, 
+* a pgAdmin4 for managing the database, 
+* and a Strapi 4.10 backend service. 
+
+The setup ensures that you can begin your project with minimal configuration.
 
 ## Prerequisites
 
-- Make sure you have [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) installed on your system. This boilerplate is designed to work with Docker and does not require a separate installation of Node.js.
+- Make sure you have [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) installed on your system. 
+
+This boilerplate is designed to work with Docker and does not require a separate installation of Node.js.
 
 ## Services
 
